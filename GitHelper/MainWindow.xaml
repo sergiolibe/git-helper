@@ -1,0 +1,19 @@
+﻿<Window x:Class="GitHelper.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="GitHelper" Height="204.746" Width="198.134" Foreground="{x:Null}" Icon="Git-Icon-1788C.ico" ResizeMode="NoResize" Padding="0" WindowStartupLocation="CenterScreen">
+    <Grid Margin="0,0,2,2" Background="Black">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="85*"/>
+            <ColumnDefinition Width="103*"/>
+        </Grid.ColumnDefinitions>
+        <CheckBox x:Name="checkbox1" Content="git add ." HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" Foreground="#FF14D849" TabIndex="1"/>
+        <CheckBox x:Name="checkbox2" Content="git push origin" HorizontalAlignment="Left" Margin="10,31,0,0" VerticalAlignment="Top" Grid.ColumnSpan="2" Foreground="#FFD8601C" Checked="CheckBox_Checked" TabIndex="2"/>
+        <TextBox x:Name="textbox_commit" HorizontalAlignment="Left" Height="77" Margin="10,63,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="166" Grid.ColumnSpan="2" BorderBrush="#6800FFB9" BorderThickness="1" TabIndex="5" Background="#FF171717" Foreground="White" Padding="10,5,10,10"/>
+        <Label Content="commit message" HorizontalAlignment="Left" Margin="5,42,0,0" VerticalAlignment="Top" Grid.ColumnSpan="2" Foreground="#FF3CBEE4"/>
+        <TextBox x:Name="textbox_branch" HorizontalAlignment="Left" Height="21" Margin="26,29,0,0" TextWrapping="Wrap" Text="branch" VerticalAlignment="Top" Width="68" Grid.Column="1" Foreground="#FFD8601C" BorderBrush="{x:Null}" BorderThickness="1" IsEnabled="False" TabIndex="4" Background="Black"/>
+        <Button x:Name="btn_copy" Content="Copy" HorizontalAlignment="Left" Margin="9.333,7,0,0" VerticalAlignment="Top" Width="75" Background="#FFBF017A" Foreground="White" Grid.Column="1" BorderBrush="{x:Null}" BorderThickness="0" Click="btn_copy_Click" TabIndex="6"/>
+        <Label x:Name="lbl_notificar" Content="..." HorizontalAlignment="Left" Height="25" Margin="10,141,0,-15" VerticalAlignment="Top" Grid.ColumnSpan="2" Width="166" Foreground="#FFD1FF00"/>
+
+    </Grid>
+</Window>

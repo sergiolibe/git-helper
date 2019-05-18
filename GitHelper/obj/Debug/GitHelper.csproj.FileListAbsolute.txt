@@ -1,0 +1,13 @@
+c:\users\sergio\documents\visual studio 2013\Projects\GitHelper\GitHelper\bin\Debug\GitHelper.exe.config
+c:\users\sergio\documents\visual studio 2013\Projects\GitHelper\GitHelper\bin\Debug\GitHelper.exe
+c:\users\sergio\documents\visual studio 2013\Projects\GitHelper\GitHelper\bin\Debug\GitHelper.pdb
+c:\users\sergio\documents\visual studio 2013\Projects\GitHelper\GitHelper\obj\Debug\GitHelper.csprojResolveAssemblyReference.cache
+c:\users\sergio\documents\visual studio 2013\Projects\GitHelper\GitHelper\obj\Debug\MainWindow.baml
+c:\users\sergio\documents\visual studio 2013\Projects\GitHelper\GitHelper\obj\Debug\MainWindow.g.cs
+c:\users\sergio\documents\visual studio 2013\Projects\GitHelper\GitHelper\obj\Debug\App.g.cs
+c:\users\sergio\documents\visual studio 2013\Projects\GitHelper\GitHelper\obj\Debug\GitHelper_MarkupCompile.cache
+c:\users\sergio\documents\visual studio 2013\Projects\GitHelper\GitHelper\obj\Debug\GitHelper.g.resources
+c:\users\sergio\documents\visual studio 2013\Projects\GitHelper\GitHelper\obj\Debug\GitHelper.Properties.Resources.resources
+c:\users\sergio\documents\visual studio 2013\Projects\GitHelper\GitHelper\obj\Debug\GitHelper.csproj.GenerateResource.Cache
+c:\users\sergio\documents\visual studio 2013\Projects\GitHelper\GitHelper\obj\Debug\GitHelper.exe
+c:\users\sergio\documents\visual studio 2013\Projects\GitHelper\GitHelper\obj\Debug\GitHelper.pdb
